@@ -19,7 +19,7 @@ const sampleEvents = [
     event_name: "Excel Basics",
     location_zip: "94305",
     date: "2025-08-15",
-    language: "English",
+    language: "English", 
     instructor: "John Doe",
     type: "Seminar"
   },
